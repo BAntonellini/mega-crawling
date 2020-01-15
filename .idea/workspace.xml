@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d659f171-5042-4d1f-b1ff-97af12830795" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - mega_cuits.sqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - mega_cuits.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - mega_cuits.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="cd2bcf02-9640-4673-88da-b6787227bffb" />
+    </checked>
+  </component>
+  <component name="ProjectId" id="1WRFAjYOGy0wLvN5BsaGLIQdvKT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bruno\Desktop\desarrollo\web-crawling\mega-cuits\mega_scrapy\mega_scrapy\spiders" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="loader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mega-cuits" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mega-cuits" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mega_scrapy/mega_scrapy/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mega_scrapy/mega_scrapy/spiders/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.loader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:SQLite - mega_cuits.sqlite" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:SQLite - mega_cuits.sqlite" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@211257cc" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d659f171-5042-4d1f-b1ff-97af12830795" name="Default Changelist" comment="" />
+      <created>1579104358924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579104358924</updated>
+      <workItem from="1579104379595" duration="11689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#SQL_Dialects" timestamp="1579116307010">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#SQL_Dialects/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579116307010" />
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579106002489">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579106002489" />
+    <state x="598" y="132" key="ExecutionTargetDialog" timestamp="1579118414229">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="598" y="132" key="ExecutionTargetDialog/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579118414229" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1579105990430">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579105990430" />
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1579118987943">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579118987943" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1579118987943">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579118987943" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1579118987943">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579118987943" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1579118987943">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579118987943" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1579118987943">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579118987943" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1579118987943">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579118987943" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1579118987943">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579118987943" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1579118987943">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579118987943" />
+    <state x="654" y="179" width="326" height="501" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1579104773260">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="654" y="179" width="326" height="501" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579104773260" />
+    <state x="672" y="319" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$1" timestamp="1579118599169">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="672" y="319" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$1/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579118599169" />
+    <state x="459" y="68" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1579118671811">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="459" y="68" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579118671811" />
+    <state x="658" y="176" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1579104778712">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="658" y="176" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579104778712" />
+    <state x="431" y="0" width="737" height="860" key="find.popup" timestamp="1579105554932">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="431" y="0" width="737" height="860" key="find.popup/0.0.1600.860/-1366.0.1366.728@0.0.1600.860" timestamp="1579105554932" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mega_cuits$test.coverage" NAME="test Coverage Results" MODIFIED="1579108821763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mega_scrapy/mega_scrapy/spiders" />
+    <SUITE FILE_PATH="coverage/mega_cuits$loader.coverage" NAME="loader Coverage Results" MODIFIED="1579105953681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

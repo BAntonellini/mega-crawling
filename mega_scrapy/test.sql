@@ -1,0 +1,1 @@
+UPDATE cuits_crawled SET empr_name="BERNASCONI DAVID AUGUSTO" WHERE empr_cuit=20296753530
